@@ -1,3 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Live
+#EXTINF:-1, Link 1
 https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTM3U
+#EXTINF:-1, Link 2
+https://sgchill.io.vn/360/110/index.m3u8
