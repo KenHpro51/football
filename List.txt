@@ -201,14 +201,6 @@ https://sgchill.io.vn/360/194/index.m3u8
 https://sgchill.io.vn/360/195/index.m3u8
 #EXTINF:-1, Kênh 196
 https://sgchill.io.vn/360/196/index.m3u8
-#EXTINF:-1, Kênh 197
-https://sgchill.io.vn/360/197/index.m3u8
-#EXTINF:-1, Kênh 198
-https://sgchill.io.vn/360/198/index.m3u8
-#EXTINF:-1, Kênh 199
-https://sgchill.io.vn/360/199/index.m3u8
-#EXTINF:-1, Kênh 200
-https://sgchill.io.vn/360/200/index.m3u8
 #EXTINF:-1, Kênh 201
 https://sgchill.io.vn/360/201/index.m3u8
 #EXTINF:-1, Kênh 202
@@ -230,7 +222,7 @@ https://sgchill.io.vn/360/215/index.m3u8
 #EXTINF:-1, Kênh 216
 https://sgchill.io.vn/360/216/index.m3u8
 #EXTINF:-1, Kênh 219
-https://sgchill.io.vn/360/219/index.m3u8
+https://sgchill.io.vn/360/232/index.m3u8
 #EXTINF:-1, Kênh 220
 https://sgchill.io.vn/360/220/index.m3u8
 #EXTINF:-1, Kênh 232
