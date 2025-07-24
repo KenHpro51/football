@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="vtv1-hd" tvg-name="VTV1 HD" group-title="Nổi Bật",VTV1 HD
+http://iptv.nhadai.org/stream/vtv1-hd
+#EXTINF:-1 tvg-id="vtv3-hd" tvg-name="VTV3 HD" group-title="Nổi Bật",VTV3 HD
+http://iptv.nhadai.org/stream/vtv3-hd
+#EXTINF:-1 tvg-id="vtv5-hd" tvg-name="VTV5 HD" group-title="Nổi Bật",VTV5 HD
+http://iptv.nhadai.org/stream/vtv5-hd
+#EXTINF:-1 tvg-id="vtv-can-tho" tvg-name="VTV Cần Thơ" group-title="Nổi Bật",VTV Cần Thơ
+http://iptv.nhadai.org/stream/vtv-can-tho
+#EXTINF:-1 tvg-id="fpt-play" tvg-name="FPT Play" group-title="Nổi Bật",FPT Play
+http://iptv.nhadai.org/stream/fpt-play
+#EXTINF:-1 tvg-id="htvc-the-thao" tvg-name="HTVC Thể Thao" group-title="Nổi Bật",HTVC Thể Thao
+http://iptv.nhadai.org/stream/htvc-the-thao
+#EXTINF:-1 tvg-id="htv9-hd" tvg-name="HTV9 HD" group-title="Nổi Bật",HTV9 HD
+http://iptv.nhadai.org/stream/htv9-hd
