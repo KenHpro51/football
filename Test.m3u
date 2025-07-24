@@ -1,15 +1,78 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="vtv1-hd" tvg-name="VTV1 HD" group-title="Nổi Bật",VTV1 HD
+#EXTINF:-1 tvg-id="VTV1_HD" tvg-name="VTV1 HD" tvg-logo="http://iptv.nhadai.org/img/vtv1-hd.png" group-title="Nổi Bật",VTV1 HD
 http://iptv.nhadai.org/stream/vtv1-hd
-#EXTINF:-1 tvg-id="vtv3-hd" tvg-name="VTV3 HD" group-title="Nổi Bật",VTV3 HD
+
+#EXTINF:-1 tvg-id="VTV3_HD" tvg-name="VTV3 HD" tvg-logo="http://iptv.nhadai.org/img/vtv3-hd.png" group-title="Nổi Bật",VTV3 HD
 http://iptv.nhadai.org/stream/vtv3-hd
-#EXTINF:-1 tvg-id="vtv5-hd" tvg-name="VTV5 HD" group-title="Nổi Bật",VTV5 HD
+
+#EXTINF:-1 tvg-id="VTV5_HD" tvg-name="VTV5 HD" tvg-logo="http://iptv.nhadai.org/img/vtv5-hd.png" group-title="Nổi Bật",VTV5 HD
 http://iptv.nhadai.org/stream/vtv5-hd
-#EXTINF:-1 tvg-id="vtv-can-tho" tvg-name="VTV Cần Thơ" group-title="Nổi Bật",VTV Cần Thơ
+
+#EXTINF:-1 tvg-id="VTV_CAN_THO" tvg-name="VTV Cần Thơ" tvg-logo="http://iptv.nhadai.org/img/vtv-can-tho.png" group-title="Nổi Bật",VTV Cần Thơ
 http://iptv.nhadai.org/stream/vtv-can-tho
-#EXTINF:-1 tvg-id="fpt-play" tvg-name="FPT Play" group-title="Nổi Bật",FPT Play
+
+#EXTINF:-1 tvg-id="FPT_PLAY" tvg-name="FPT Play" tvg-logo="http://iptv.nhadai.org/img/fpt-play.png" group-title="Nổi Bật",FPT Play
 http://iptv.nhadai.org/stream/fpt-play
-#EXTINF:-1 tvg-id="htvc-the-thao" tvg-name="HTVC Thể Thao" group-title="Nổi Bật",HTVC Thể Thao
+
+#EXTINF:-1 tvg-id="HTVC_THE_THAO" tvg-name="HTVC Thể Thao" tvg-logo="http://iptv.nhadai.org/img/htvc-the-thao.png" group-title="Nổi Bật",HTVC Thể Thao
 http://iptv.nhadai.org/stream/htvc-the-thao
-#EXTINF:-1 tvg-id="htv9-hd" tvg-name="HTV9 HD" group-title="Nổi Bật",HTV9 HD
+
+#EXTINF:-1 tvg-id="HTV9_HD" tvg-name="HTV9 HD" tvg-logo="http://iptv.nhadai.org/img/htv9-hd.png" group-title="Nổi Bật",HTV9 HD
 http://iptv.nhadai.org/stream/htv9-hd
+
+#EXTINF:-1 tvg-id="FPT_PLAY" tvg-name="FPT Play" tvg-logo="http://iptv.nhadai.org/img/fpt-play.png" group-title="Cơ Bản",FPT Play
+http://iptv.nhadai.org/stream/fpt-play
+
+#EXTINF:-1 tvg-id="VTV1_HD" tvg-name="VTV1 HD" tvg-logo="http://iptv.nhadai.org/img/vtv1-hd.png" group-title="Cơ Bản",VTV1 HD
+http://iptv.nhadai.org/stream/vtv1-hd
+
+#EXTINF:-1 tvg-id="VTV2_HD" tvg-name="VTV2 HD" tvg-logo="http://iptv.nhadai.org/img/vtv2-hd.png" group-title="Cơ Bản",VTV2 HD
+http://iptv.nhadai.org/stream/vtv2-hd
+
+#EXTINF:-1 tvg-id="VTV3_HD" tvg-name="VTV3 HD" tvg-logo="http://iptv.nhadai.org/img/vtv3-hd.png" group-title="Cơ Bản",VTV3 HD
+http://iptv.nhadai.org/stream/vtv3-hd
+
+#EXTINF:-1 tvg-id="VTV4_HD" tvg-name="VTV4 HD" tvg-logo="http://iptv.nhadai.org/img/vtv4-hd.png" group-title="Cơ Bản",VTV4 HD
+http://iptv.nhadai.org/stream/vtv4-hd
+
+#EXTINF:-1 tvg-id="VTV_CAN_THO" tvg-name="VTV Cần Thơ" tvg-logo="http://iptv.nhadai.org/img/vtv-can-tho.png" group-title="Cơ Bản",VTV Cần Thơ
+http://iptv.nhadai.org/stream/vtv-can-tho
+
+#EXTINF:-1 tvg-id="VTV5_HD" tvg-name="VTV5 HD" tvg-logo="http://iptv.nhadai.org/img/vtv5-hd.png" group-title="Cơ Bản",VTV5 HD
+http://iptv.nhadai.org/stream/vtv5-hd
+
+#EXTINF:-1 tvg-id="VTV5_TAY_NAM_BO" tvg-name="VTV5 Tây Nam Bộ" tvg-logo="http://iptv.nhadai.org/img/vtv5-tay-nam-bo.png" group-title="Cơ Bản",VTV5 Tây Nam Bộ
+http://iptv.nhadai.org/stream/vtv5-tay-nam-bo
+
+#EXTINF:-1 tvg-id="VTV5_TAY_NGUYEN" tvg-name="VTV5 Tây Nguyên" tvg-logo="http://iptv.nhadai.org/img/vtv5-tay-nguyen.png" group-title="Cơ Bản",VTV5 Tây Nguyên
+http://iptv.nhadai.org/stream/vtv5-tay-nguyen
+
+#EXTINF:-1 tvg-id="VTV7_HD" tvg-name="VTV7 HD" tvg-logo="http://iptv.nhadai.org/img/vtv7-hd.png" group-title="Cơ Bản",VTV7 HD
+http://iptv.nhadai.org/stream/vtv7-hd
+
+#EXTINF:-1 tvg-id="ASIAN_FOOD_CHANNEL" tvg-name="Asian Food Channel" tvg-logo="http://iptv.nhadai.org/img/asian-food-channel.png" group-title="Quốc Tế",Asian Food Channel
+http://iptv.nhadai.org/stream/asian-food-channel
+
+#EXTINF:-1 tvg-id="DA_VINCI_LEARNING" tvg-name="Da Vinci Learning" tvg-logo="http://iptv.nhadai.org/img/da-vinci-learning.png" group-title="Quốc Tế",Da Vinci Learning
+http://iptv.nhadai.org/stream/da-vinci-learning
+
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="http://iptv.nhadai.org/img/cnbc.png" group-title="Quốc Tế",CNBC
+http://iptv.nhadai.org/stream/cnbc
+
+#EXTINF:-1 tvg-id="KBS_WORLD" tvg-name="KBS World" tvg-logo="http://iptv.nhadai.org/img/kbs-world.png" group-title="Quốc Tế",KBS World
+http://iptv.nhadai.org/stream/kbs-world
+
+#EXTINF:-1 tvg-id="NHK_WORLD_HD" tvg-name="NHK World HD" tvg-logo="http://iptv.nhadai.org/img/nhk-world-hd.png" group-title="Quốc Tế",NHK World HD
+http://iptv.nhadai.org/stream/nhk-world-hd
+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="http://iptv.nhadai.org/img/dw.png" group-title="Quốc Tế",DW
+http://iptv.nhadai.org/stream/dw
+
+#EXTINF:-1 tvg-id="ARIRANG" tvg-name="Arirang" tvg-logo="http://iptv.nhadai.org/img/arirang.png" group-title="Quốc Tế",Arirang
+http://iptv.nhadai.org/stream/arirang
+
+#EXTINF:-1 tvg-id="CHANNEL_NEWSASIA" tvg-name="Channel NewsAsia" tvg-logo="http://iptv.nhadai.org/img/channel-newsasia.png" group-title="Quốc Tế",Channel NewsAsia
+http://iptv.nhadai.org/stream/channel-newsasia
+
+#EXTINF:-1 tvg-id="FRANCE_24" tvg-name="France 24" tvg-logo="http://iptv.nhadai.org/img/france-24.png" group-title="Quốc Tế",France 24
+http://iptv.nhadai.org/stream/france-24
