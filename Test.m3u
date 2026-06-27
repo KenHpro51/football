@@ -1,10 +1,16 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV", VTV3
 https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3
+https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV", VTV6
 https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
+https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV", VTV9
 https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/APl10jiVAlQ/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}", VTV9
+https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV", VTV10
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
@@ -32,15 +38,4 @@ https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc2
 https://hoiquan.dpdns.org/VTVGo/?WC-FiFa2
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260617/2026061723/owe8ceyOCM-logo.webp", Kênh Tiếng Anh 2
 https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-2
-
-#EXTINF:-1 group-title="Linh tinh", Khách Sạn Huyền Bí 4: Ma Cà Rồng Biến Hình 
-https://s6.kkphimplayer6.com/20260203/XdqjvOh4/index.m3u8
-#EXTINF:-1 group-title="Linh tinh" tvg-logo="https://phimapi.com/image.php?url=https://phimimg.com/upload/vod/20250516-1/e51402a887bb3dab4db99a396fd03a53.jpg", Kẻ Trộm Mặt Trăng
-https://s5.phim1280.tv/20250516/SzGKrSUT/index.m3u8
-#EXTINF:-1 group-title="Linh tinh" tvg-logo="https://phimapi.com/image.php?url=https://phimimg.com/upload/vod/20250508-1/d43ada4cb5f9a1dbdb9d614406726a53.jpg", Một Bộ Phim Minecraft
-https://s5.phim1280.tv/20250518/yeyEnNtk/index.m3u8
-#EXTINF:-1 group-title="Linh tinh" tvg-logo="https://phimapi.com/image.php?url=https://phimimg.com/upload/vod/20250508-1/d43ada4cb5f9a1dbdb9d614406726a53.jpg", Một Bộ Phim Minecraft(vietsub)
-https://s5.phim1280.tv/20250513/mvxh4UlN/index.m3u8
-#EXTINF:-1 group-title="Linh tinh" tvg-logo="https://phim.nguonc.com/public/images/Film/Z3mSxuPRNiFYxf1LBoGz3YrJzC.jpg", Doraemon: Nobita và Bản Giao Hưởng Địa Cầu TẬP
-blob:https://embed14.streamc.xyz/aa96da46-e779-4c1e-bff3-638f68e83bc5
 
