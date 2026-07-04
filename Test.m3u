@@ -21,6 +21,8 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV", VTV10
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV", VTV3(test)
+https://raw.githubusercontent.com/KenHpro51/football/refs/heads/main/index(1).m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
 https://ace.hoiquan.click/module/IPTV/?id=vtv2&accKenh=vuminhthanh1
