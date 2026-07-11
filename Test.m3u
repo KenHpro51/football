@@ -5,12 +5,16 @@ https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/
 https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV", VTV3(3)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv3-hd/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV", VTV3(720p)
+https://vtvgolive-wc2026.vtvdigital.vn/jKGPXQCPmlhY3eBfEee4UQ/1783837294/vtv3/master.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV", VTV6
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv6__vtv1080p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6(2)
 https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV", VTV6(3)
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv6-hd/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV", VTV6(720p)
+https://vtvgolive-wc2026.vtvdigital.vn/pqIy021ffTumsrRxdrBbow/1783837358/vtv6/master.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV", VTV7
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv7-hd/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/hWt5JN_B66Y/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}, VTV7(2)
@@ -21,6 +25,8 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV", VTV9(3)
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv9__vtv1080p-h264/index.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV", VTV9(720p)
+https://vtvgolive-wc2026.vtvdigital.vn/LLMMeZPlq-VE928UdnsE6g/1783837416/vtv9/master.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV", VTV10
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
