@@ -54,5 +54,7 @@ https://hoiquan.dpdns.org/VTVGo/?WC-FiFa2
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260617/2026061723/owe8ceyOCM-logo.webp", Kênh Tiếng Anh 2
 https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-2
 
-#EXTINF:-1 group-title="Linh Tinh" tvg-logo="", K
-https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
+#EXTINF:0 group-title="Chuối chiên",hello
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=e0f996ddc21ffd77248c761f-178557957938342&wsIPSercert=2ae8e3b9f12214ac2e121fdd84d14307&wsBindIP=2&wsserid=1168159941877228745
