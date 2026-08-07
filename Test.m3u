@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
-#EXTINF:-1 group-title="Events",Việt Nam vs Indonesia
-https://vips-livecdn.fptplay.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Events",Việt Nam vs Cambodia
+https://vips-livecdn.fptplay.net/live/media/su-kien-03-4k/4k_hls_avc_v6/index.m3u8?sign=1786102019-NDI5MjY2NQ-0-46ea56482eca45f6dba2892c6dd121b6
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV", VTV2
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv2__vtv1080p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV", VTV3
