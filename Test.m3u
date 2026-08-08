@@ -64,3 +64,6 @@ https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+
+#EXTINF:-1 group-title="Linh Tinh", Sự Kiện 3 4K
+https://ds164.bluetier.top/SPT4/index.m3u8
