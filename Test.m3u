@@ -1,7 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml"
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event FHD 50fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Main Event FHD 50fps
-http://myxpanel.pro:80/Dante/Dante/276918
+#EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 FHD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 1 FHD
 http://myxpanel.pro:80/Dante/Dante/276900
@@ -25,6 +22,106 @@ http://myxpanel.pro:80/Dante/Dante/276892
 http://myxpanel.pro:80/Dante/Dante/276891
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports5.uk" tvg-name="UK: TNT Sport 5" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 5
 http://myxpanel.pro:80/Dante/Dante/276890
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK: LaLigaTV FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/LaLigaTV_%282023%29.svg/revision/latest?cb=20240327213326" group-title="UK | SPORTS",UK: LaLigaTV FHD
+http://myxpanel.pro:80/Dante/Dante/276875
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="LALTV" tvg-name="UK: LaLigaTV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/LaLigaTV_%282023%29.svg/revision/latest?cb=20240327213326" group-title="UK | SPORTS",UK: LaLigaTV HD
+http://myxpanel.pro:80/Dante/Dante/276874
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mutv.uk" tvg-name="UK: MUTV FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MUTV_logo.png/revision/latest?cb=20170927164546" group-title="UK | SPORTS",UK: MUTV FHD
+http://myxpanel.pro:80/Dante/Dante/276873
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mutv.uk" tvg-name="UK: MUTV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MUTV_logo.png/revision/latest?cb=20170927164546" group-title="UK | SPORTS",UK: MUTV HD
+http://myxpanel.pro:80/Dante/Dante/276872
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mutv.uk" tvg-name="UK: MUTV SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MUTV_logo.png/revision/latest?cb=20170927164546" group-title="UK | SPORTS",UK: MUTV SD
+http://myxpanel.pro:80/Dante/Dante/276871
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="racinguk.uk" tvg-name="UK: Racing TV  FHD" tvg-logo="https://www.catterickbridge.co.uk/portals/0/Graphics/Racing/RacingUK/v01_Racing-TV-Logo-RTV-Blue_RGB_NOBG-min.png" group-title="UK | SPORTS",UK: Racing TV  FHD
+http://myxpanel.pro:80/Dante/Dante/276862
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="racinguk.uk" tvg-name="UK: Racing TV HD" tvg-logo="https://www.catterickbridge.co.uk/portals/0/Graphics/Racing/RacingUK/v01_Racing-TV-Logo-RTV-Blue_RGB_NOBG-min.png" group-title="UK | SPORTS",UK: Racing TV HD
+http://myxpanel.pro:80/Dante/Dante/276861
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcredbutton1.uk" tvg-name="UK: BBC Red Button 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",UK: BBC Red Button 1 FHD
+http://myxpanel.pro:80/Dante/Dante/276858
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcredbutton1.uk" tvg-name="UK: BBC Red Button 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",UK: BBC Red Button 1 HD
+http://myxpanel.pro:80/Dante/Dante/276857
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="liverpoolfctv.uk" tvg-name="UK: LFC TV FHD" tvg-logo="https://pluspng.com/img-png/logo-liverpool-fc-png-liverpool-fc-logo-500.png" group-title="UK | SPORTS",UK: LFC TV FHD
+http://myxpanel.pro:80/Dante/Dante/276843
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="liverpoolfctv.uk" tvg-name="UK: LFC TV HD" tvg-logo="https://pluspng.com/img-png/logo-liverpool-fc-png-liverpool-fc-logo-500.png" group-title="UK | SPORTS",UK: LFC TV HD
+http://myxpanel.pro:80/Dante/Dante/276842
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="racinguk.uk" tvg-name="UK: Racing TV  SD" tvg-logo="https://www.catterickbridge.co.uk/portals/0/Graphics/Racing/RacingUK/v01_Racing-TV-Logo-RTV-Blue_RGB_NOBG-min.png" group-title="UK | SPORTS",UK: Racing TV  SD
+http://myxpanel.pro:80/Dante/Dante/276836
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="DUPWCHD" tvg-name="Willow Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Willow_Cricket.PNG/200px-Willow_Cricket.PNG" group-title="UK | SPORTS",Willow Cricket
+http://myxpanel.pro:80/Dante/Dante/276832
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="0" tvg-name="UFC FIGHT PASS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="UK | SPORTS",UFC FIGHT PASS
+http://myxpanel.pro:80/Dante/Dante/276831
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket FHD HEVC 25fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Cricket FHD HEVC 25fps
+http://myxpanel.pro:80/Dante/Dante/276829
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football FHD HEVC 25fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Football FHD HEVC 25fps
+http://myxpanel.pro:80/Dante/Dante/276827
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf FHD HEVC 25fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Golf FHD HEVC 25fps
+http://myxpanel.pro:80/Dante/Dante/276826
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event FHD HEVC 25fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Main Event FHD HEVC 25fps
+http://myxpanel.pro:80/Dante/Dante/276825
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix FHD HEVC 25fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Mix FHD HEVC 25fps
+http://myxpanel.pro:80/Dante/Dante/276824
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News FHD HEVC 25fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports News FHD HEVC 25fps
+http://myxpanel.pro:80/Dante/Dante/276823
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsnfl.uk" tvg-name="UK: Sky Sports NFL/ACTION FHD HEVC 25fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports NFL/ACTION FHD HEVC 25fps
+http://myxpanel.pro:80/Dante/Dante/276822
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sports Premier League FHD HEVC 25fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Premier League FHD HEVC 25fps
+http://myxpanel.pro:80/Dante/Dante/276821
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsracing.uk" tvg-name="UK: Sky Sports Racing FHD HEVC 25fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Racing FHD HEVC 25fps
+http://myxpanel.pro:80/Dante/Dante/276820
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 FHD HEVC" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 1 FHD HEVC
+http://myxpanel.pro:80/Dante/Dante/276806
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports2.uk" tvg-name="UK: TNT Sport 2 FHD HEVC" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 2 FHD HEVC
+http://myxpanel.pro:80/Dante/Dante/276805
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports3.uk" tvg-name="UK: TNT Sport 3 FHD HEVC" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 3 FHD HEVC
+http://myxpanel.pro:80/Dante/Dante/276804
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport4.uk" tvg-name="UK: TNT Sport 4 FHD HEVC" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 4 FHD HEVC
+http://myxpanel.pro:80/Dante/Dante/276803
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 FHD 50FPS" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 1 FHD 50FPS
+http://myxpanel.pro:80/Dante/Dante/276802
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports2.uk" tvg-name="UK: TNT Sport 2 FHD 50FPS" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 2 FHD 50FPS
+http://myxpanel.pro:80/Dante/Dante/276801
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports3.uk" tvg-name="UK: TNT Sport 3 FHD 50FPS" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 3 FHD 50FPS
+http://myxpanel.pro:80/Dante/Dante/276800
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports4.uk" tvg-name="UK: TNT Sport 4 FHD 50FPS" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 4 FHD 50FPS
+http://myxpanel.pro:80/Dante/Dante/276799
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsportultimate.uk" tvg-name="UK: TNT Sport Ultimate 4K" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport Ultimate 4K
+http://myxpanel.pro:80/Dante/Dante/276789
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports2.uk" tvg-name="UK: Premier Sport 2 (IRE)" tvg-logo="https://logo.m3uassets.com/premiersport2.png" group-title="UK | SPORTS",UK: Premier Sport 2 (IRE)
+http://myxpanel.pro:80/Dante/Dante/276787
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports.uk" tvg-name="UKFHD Premier Sports 1 UK VERSION" tvg-logo="https://logo.m3uassets.com/premiersports1hd.png" group-title="UK | SPORTS",UKFHD Premier Sports 1 UK VERSION
+http://myxpanel.pro:80/Dante/Dante/800014
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports2.uk" tvg-name="UKFHD Premier Sports  2 UK VERSION" tvg-logo="https://logo.m3uassets.com/premiersports2hd.png" group-title="UK | SPORTS",UKFHD Premier Sports  2 UK VERSION
+http://myxpanel.pro:80/Dante/Dante/800013
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports.uk" tvg-name="FHD | Premier Sports 1 50FPS FHD" tvg-logo="https://logo.m3uassets.com/premiersports1.png" group-title="UK | SPORTS",FHD | Premier Sports 1 50FPS FHD
+http://myxpanel.pro:80/Dante/Dante/800012
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports2.uk" tvg-name="UKFHD | Premier Sports 2 50FPS FHD" tvg-logo="https://logo.m3uassets.com/premiersports2.png" group-title="UK | SPORTS",UKFHD | Premier Sports 2 50FPS FHD
+http://myxpanel.pro:80/Dante/Dante/800011
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK HD | Premier Sports Rugby HD" tvg-logo="https://logo.m3uassets.com/premiersports.png" group-title="UK | SPORTS",UK HD | Premier Sports Rugby HD
+http://myxpanel.pro:80/Dante/Dante/800010
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UK SD | Premier Sports Rugby SD" tvg-logo="https://logo.m3uassets.com/premiersports.png" group-title="UK | SPORTS",UK SD | Premier Sports Rugby SD
+http://myxpanel.pro:80/Dante/Dante/800009
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports1.ie" tvg-name="HEVC FHD Premier Sports 1 Ireland" tvg-logo="https://logo.m3uassets.com/premiersports1.png" group-title="UK | SPORTS",HEVC FHD Premier Sports 1 Ireland
+http://myxpanel.pro:80/Dante/Dante/800008
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports2.uk" tvg-name="HEVC FHD Premier Sports 2 Ireland" tvg-logo="https://logo.m3uassets.com/premiersports2.png" group-title="UK | SPORTS",HEVC FHD Premier Sports 2 Ireland
+http://myxpanel.pro:80/Dante/Dante/800007
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports.uk" tvg-name="HEVC HD Premier Sports 1 Ireland" tvg-logo="https://logo.m3uassets.com/premiersports1.png" group-title="UK | SPORTS",HEVC HD Premier Sports 1 Ireland
+http://myxpanel.pro:80/Dante/Dante/800006
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports2.uk" tvg-name="HEVC HD Premier Sports 2 Ireland" tvg-logo="https://logo.m3uassets.com/premiersports2.png" group-title="UK | SPORTS",HEVC HD Premier Sports 2 Ireland
+http://myxpanel.pro:80/Dante/Dante/800005
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports.uk" tvg-name="UKFHD  Premier Sports 1 ( Irish Version )" tvg-logo="https://logo.m3uassets.com/premiersports1hd.png" group-title="UK | SPORTS",UKFHD  Premier Sports 1 ( Irish Version )
+http://myxpanel.pro:80/Dante/Dante/800004
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports2.uk" tvg-name="UK FHD Premier Sports  2 ( Irish Version )" tvg-logo="https://logo.m3uassets.com/premiersports2.png" group-title="UK | SPORTS",UK FHD Premier Sports  2 ( Irish Version )
+http://myxpanel.pro:80/Dante/Dante/800003
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports.uk" tvg-name="UKHD Premier Sports  1 HD ( Irish Version )" tvg-logo="https://logo.m3uassets.com/premiersports1hd.png" group-title="UK | SPORTS",UKHD Premier Sports  1 HD ( Irish Version )
+http://myxpanel.pro:80/Dante/Dante/800002
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports2.uk" tvg-name="UKHD Premier Sports 2 ( Irish Version )" tvg-logo="https://logo.m3uassets.com/premiersports2hd.png" group-title="UK | SPORTS",UKHD Premier Sports 2 ( Irish Version )
+http://myxpanel.pro:80/Dante/Dante/800001
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports.uk" tvg-name="UKSD Premier Sports  1 ( Irish Version )" tvg-logo="https://logo.m3uassets.com/premiersports1.png" group-title="UK | SPORTS",UKSD Premier Sports  1 ( Irish Version )
+http://myxpanel.pro:80/Dante/Dante/800000
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports2.uk" tvg-name="UKSD Premier Sports 2 ( Irish Version )" tvg-logo="https://logo.m3uassets.com/premiersports2.png" group-title="UK | SPORTS",UKSD Premier Sports 2 ( Irish Version )
+http://myxpanel.pro:80/Dante/Dante/799999
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="premiersports.uk" tvg-name="UK: Premier Sport 1 (IRE)" tvg-logo="https://logo.m3uassets.com/premiersport1.png" group-title="UK | SPORTS",UK: Premier Sport 1 (IRE)
+http://myxpanel.pro:80/Dante/Dante/276788
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV", VTV2
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv2__vtv1080p-h264/index.m3u8
@@ -58,35 +155,7 @@ https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VTV10.png", VTV10(2)
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv10__vtv1080p-h264/index.m3u8
 
-#EXTINF:-1 tvg-id="vtv2hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
-https://ace.hoiquan.click/module/IPTV/?id=vtv2&accKenh=vuminhthanh1
-#EXTINF:-1 tvg-id="vtv3hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3
-https://ace.hoiquan.click/module/IPTV/?id=vtv3&accKenh=vuminhthanh1
-#EXTINF:-1 tvg-id="vtv6hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
-https://ace.hoiquan.click/module/IPTV/?id=vtv6&accKenh=vuminhthanh1
-#EXTINF:-1 tvg-id="vtv7hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.ytimg.com/vi/hWt5JN_B66Y/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}, VTV7
-https://ace.hoiquan.click/module/IPTV/?id=vtv7&accKenh=vuminhthanh1
-#EXTINF:-1 tvg-id="vtv9hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.ytimg.com/vi/APl10jiVAlQ/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}", VTV9
-https://ace.hoiquan.click/module/IPTV/?id=vtv9&accKenh=vuminhthanh1
-#EXTINF:-1 tvg-id="vtv10hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VTV10.png", VTV10
-https://ace.hoiquan.click/module/IPTV/?id=vtv10&accKenh=vuminhthanh1
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/TsjjtHjSSt-Logo-BLCX_3_11zon.webp", Bình Luận Cảm xúc
-https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/FMxAbJrF0Q-Logo-NGUYENBAN_6_11zon.webp", Tín Hiệu Nguyên Bản
-https://hoiquan.dpdns.org/VTVGo/?WC-FiFa
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260617/2026061723/owe8ceyOCM-logo.webp", Kênh Tiếng Anh 1
-https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-1
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/TsjjtHjSSt-Logo-BLCX_3_11zon.webp", Bình Luận Cảm xúc 2
-https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc2
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/FMxAbJrF0Q-Logo-NGUYENBAN_6_11zon.webp", Tín Hiệu Nguyên Bản 2
-https://hoiquan.dpdns.org/VTVGo/?WC-FiFa2
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260617/2026061723/owe8ceyOCM-logo.webp", Kênh Tiếng Anh 2
-https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-2
-
 #EXTINF:0 group-title="Chuối chiên",hello
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-
-#EXTINF:-1 group-title="Linh Tinh", Sự Kiện 3 4K
-https://ds164.bluetier.top/SPT4/tracks-v1a1/mono.m3u8?token=U1BUNHxub19jaGVja19pcHwxNzg2MjE3Mjk2.ee5bf899b5dc41f722da1fbe266f9fa85075ce94c2ad5ddcd24457f5a9043aa6
