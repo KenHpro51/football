@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY", su kien10
+https://vips-livecdn.fptplay.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 FHD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 1 FHD
 http://myxpanel.pro:80/Dante/Dante/276900
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 SD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 1 SD
