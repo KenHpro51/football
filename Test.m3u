@@ -3,6 +3,29 @@
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event FHD 50fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Main Event FHD 50fps
 http://myxpanel.pro:80/Dante/Dante/276918
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports1.uk" tvg>
+http://myxpanel.pro:80/Dante/Dante/276900
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports1.uk" tvg>
+http://myxpanel.pro:80/Dante/Dante/276899
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports2.uk" tvg>
+http://myxpanel.pro:80/Dante/Dante/276898
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports2.uk" tvg>
+http://myxpanel.pro:80/Dante/Dante/276897
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports3.uk" tvg>
+http://myxpanel.pro:80/Dante/Dante/276896
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports3.uk" tvg>
+http://myxpanel.pro:80/Dante/Dante/276895
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports3.uk" tvg>
+http://myxpanel.pro:80/Dante/Dante/276894
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports4.uk" tvg>
+http://myxpanel.pro:80/Dante/Dante/276893
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports4.uk" tvg>
+http://myxpanel.pro:80/Dante/Dante/276892
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports4.uk" tvg>
+http://myxpanel.pro:80/Dante/Dante/276891
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports5.uk" tvg>
+http://myxpanel.pro:80/Dante/Dante/276890
+
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV", VTV2
 https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/live/vtv2__vtv1080p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV", VTV3
