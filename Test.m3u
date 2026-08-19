@@ -4,7 +4,7 @@
 https://vips-livecdn.fptplay.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/19/slider_1787114140657.jpg", Sự Kiện 3 4K
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/19/slider_1787114140657.jpg", Sự Kiện 3 4K
+https://vips-livecdn.fptplay.net/live/media/su-kien-03-4k/4k_hls_avc_v6/index.m3u8
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 FHD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 1 FHD
