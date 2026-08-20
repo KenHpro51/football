@@ -9,6 +9,9 @@ ome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #EXTVLCOPT:http-referrer=https://live.fptplay53.net/
 https://vips-livecdn.fptplay.net/live/media/su-kien-03-4k/4k_hls_avc_v6/index.m3u8
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Philade
+lphia Union vs Inter Miami CF @ Aug 19 7:30 PM :MLS  02" tvg-logo="http://xplatinmedia.com:8080/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="USA | MLS",Philadelphia Union vs Inter Miami CF @ Aug 19 7:30 PM :MLS 02
+http://myxpanel.pro:80/Dante/Dante/2700
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 FHD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 1 FHD
 http://myxpanel.pro:80/Dante/Dante/276900
