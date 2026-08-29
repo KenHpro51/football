@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 
 #EXTINF:-1 group-title="test", teststream
-http://192.168.100.234:8080/hls/stream.m3u8
+http://192.168.100.236:8080/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY", Prem1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
