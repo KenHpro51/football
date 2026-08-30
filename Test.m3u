@@ -3,35 +3,10 @@
 #EXTINF:-1 group-title="test", teststream
 http://192.168.100.236:8080/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY", Prem1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
-https://vips-livecdn.fptplay.net/live/media/EPL_HN_01_4K_H265/dash_h_drm/index.mpd
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY", Prem2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
-https://vips-livecdn.fptplay.net/live/media/EPL_HN_03_HD_H264/dash_a_drm/index.mpd
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY", EPLHN02HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
-https://vips-livecdn.fptplay.net/live/media/EPL_HN_02_HD_H264/dash_a_drm/index.mpd
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY", su kien10
-https://vips-livecdn.fptplay.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/19/slider_1787114140657.jpg", Sự Kiện 3 4K
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0
-; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chr
-ome/81.0.4044.138 Safari/537.36 Edge/12.246"
-#EXTVLCOPT:http-referrer=https://live.fptplay53.net/
-https://vips-livecdn.fptplay.net/live/media/su-kien-03-4k/4k_hls_avc_v6/index.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Philadelphia Union vs Inter Miami CF @ Aug 19 7:30 PM :MLS  02" tvg-logo="http://xplatinmedia.com:8080/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="USA | MLS",Philadelphia Union vs Inter Miami CF @ Aug 19 7:30 PM :MLS 02
-http://myxpanel.pro:80/Dante/Dante/2700
+#EXTINF:-1 group-title="sports", Hub Premier 1
+http://iptv.tvct.net:80/live/BXTHUAG4XZ/67EJAXNZNK/644692.ts
+#EXTINF:-1 group-title="sports", Hub Premier 2
+http://iptv.tvct.net:80/live/BXTHUAG4XZ/67EJAXNZNK/644691.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 FHD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 1 FHD
 http://myxpanel.pro:80/Dante/Dante/276900
