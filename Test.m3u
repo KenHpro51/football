@@ -7,6 +7,8 @@ http://192.168.100.236:8080/hls/stream.m3u8
 http://iptv.tvct.net:80/live/BXTHUAG4XZ/67EJAXNZNK/644692.ts
 #EXTINF:-1 group-title="sports", Hub Premier 2
 http://iptv.tvct.net:80/live/BXTHUAG4XZ/67EJAXNZNK/644691.ts
+EXTINF:-1 group-title="sports", USA Network
+http://c.superiptv.pk/live/75276880/66150102/28908.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 FHD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 1 FHD
 http://myxpanel.pro:80/Dante/Dante/276900
