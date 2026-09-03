@@ -3,6 +3,10 @@
 #EXTINF:-1 group-title="test", teststream
 http://192.168.100.236:8080/hls/stream.m3u8
 
+#EXTINF:-1 group-title="sports", Sky Sports Prem
+http://c.superiptv.pk/live/75276880/66150102/117417.ts
+#EXTINF:-1 group-title="sports", TNT Sports 1
+http://c.superiptv.pk/live/75276880/66150102/688314.ts
 #EXTINF:-1 group-title="sports", Hub Premier 1
 http://iptv.tvct.net:80/live/BXTHUAG4XZ/67EJAXNZNK/644692.ts
 #EXTINF:-1 group-title="sports", Hub Premier 2
