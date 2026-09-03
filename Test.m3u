@@ -25,6 +25,8 @@ http://iptv.tvct.net:80/live/BXTHUAG4XZ/67EJAXNZNK/9878.ts
 http://iptv.tvct.net:80/live/BXTHUAG4XZ/67EJAXNZNK/105767.ts
 #EXTINF:-1 group-title="sports", Sport 2 IL (3)
 http://i5jpwtde.vexiumis.top/iptv/9PTTQAQVF8CRX3G2VZ6KUNWZ/12250/index.m3u8
+#EXTINF:-1 group-title="sports", Arena Sport 1
+http://i5jpwtde.vexiumis.top/iptv/9PTTQAQVF8CRX3G2VZ6KUNWZ/7263/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
