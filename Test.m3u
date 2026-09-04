@@ -3,6 +3,8 @@
 #EXTINF:-1 group-title="test", teststream
 http://192.168.100.236:8080/hls/stream.m3u8
 
+#EXTINF:-1 group-title="test", fpt
+https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="sports", Sky Sports Prem
 http://edge.zerobuff.com/bb77a5a232f5d05a5fd5e142d1ae6ca0a2a398bc240a10e83a46c795bb76e13f3f3e60935789a1471dd05f4a17c102e3e108284424ff8c33ff67263aecb9cec383e0f38895cad3923fa3ffd1f829fc9fca622e352801d80ed71c9bf46efdcdf833519069d25393de12c855b6e64380c2/index.m3u8
 #EXTINF:-1 group-title="sports", Sky Sports Prem (2)
