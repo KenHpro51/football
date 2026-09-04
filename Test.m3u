@@ -9,6 +9,8 @@ https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 http://edge.zerobuff.com/bb77a5a232f5d05a5fd5e142d1ae6ca0a2a398bc240a10e83a46c795bb76e13f3f3e60935789a1471dd05f4a17c102e3e108284424ff8c33ff67263aecb9cec383e0f38895cad3923fa3ffd1f829fc9fca622e352801d80ed71c9bf46efdcdf833519069d25393de12c855b6e64380c2/index.m3u8
 #EXTINF:-1 group-title="sports", Sky Sports Prem (2)
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1312002&extension=ts&play_token=yDbdml6BML
+#EXTINF:-1 group-title="sports", Sky Sports Main
+http://edge.zerobuff.com/bb77a5a232f5d05a5dd0e84adfae6ca0a2a398bc240a10e83a46c795bb76e13f3f3e60935b9abc411bd4406263a26598827c7a4326e99430e369213ef0a1cddf8de3f58295cad0936da5aad9e37fa4d0cc3f226d275d8c058d4bcaa33df39ffc3206c13d8256918914/index.m3u8
 #EXTINF:-1 group-title="sports", Hub Premier 1
 http://main3.112421.net/live/ueCPHIwZ34/ahF8CChJYz/4155110.ts
 #EXTINF:-1 group-title="sports", Hub Premier 2
