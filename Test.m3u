@@ -9,17 +9,26 @@ https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 https://kent.s.gy/livenow
 #EXTINF:-1 group-title="test", livenow2
 https://kent.s.gy/livenow2
-#EXTINF:-1 group-title="sports", Sky Sports Prem
-https://kent.s.gy/kentskyprem
-#EXTINF:-1 group-title="sports", Sky Sports Prem (2)
-http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1312002&extension=ts&play_token=yDbdml6BML
-#EXTINF:-1 group-title="sports", Sky Sports Main
-https://kent.s.gy/kentskymain
-#EXTINF:-1 group-title="sports", Hub Premier 1
+#EXTINF:-1 group-title="sports", EPL 1
 http://main3.112421.net/live/ueCPHIwZ34/ahF8CChJYz/4155110.ts
-#EXTINF:-1 group-title="sports", Hub Premier 2
-http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1314078&extension=ts&play_token=COgTgsUHRM
-#EXTINF:-1 group-title="sports", Hub Premier 2 4K
+#EXTINF:-1 group-title="sports", EPL 2
+http://main3.112421.net/live/ueCPHIwZ34/ahF8CChJYz/4155109.ts
+#EXTINF:-1 group-title="sports", EPL 3
+http://main3.112421.net/live/ueCPHIwZ34/ahF8CChJYz/4155108.ts
+#EXTINF:-1 group-title="sports", EPL 4
+http://main3.112421.net/live/ueCPHIwZ34/ahF8CChJYz/4155107.ts
+#EXTINF:-1 group-title="sports", EPL 5
+http://main3.112421.net/live/ueCPHIwZ34/ahF8CChJYz/4155106.ts
+#EXTINF:-1 group-title="sports", EPL 6
+http://main3.112421.net/live/ueCPHIwZ34/ahF8CChJYz/4155105.ts
+#EXTINF:-1 group-title="sports", EPL 7
+http://main3.112421.net/live/ueCPHIwZ34/ahF8CChJYz/4155104.ts
+#EXTINF:-1 group-title="sports", EPL 8
+http://main3.112421.net/live/ueCPHIwZ34/ahF8CChJYz/4155103.ts
+#EXTINF:-1 group-title="sports", EPL 9
+http://main3.112421.net/live/ueCPHIwZ34/ahF8CChJYz/4155102.ts
+#EXTINF:-1 group-title="sports", EPL 10
+http://main3.112421.net/live/ueCPHIwZ34/ahF8CChJYz/4155101.ts
 https://kent.s.gy/kenthubprem2_4k
 #EXTINF:-1 group-title="sports", Now Sports 2 4K
 https://kent.s.gy/kentnow4k
