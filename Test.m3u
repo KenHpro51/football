@@ -6,20 +6,19 @@ http://192.168.100.236:8080/hls/stream.m3u8
 #EXTINF:-1 group-title="test", fpt
 https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="sports", Sky Sports Prem
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-http://edge.zerobuff.com/bb77a5a232f5d05a5fd5e142d1ae6ca0a2a398bc240a10e83a46c795bb76e13f3f3e60935789a1471dd05f4a17c102e3e108284424ff8c33ff67263aecb9cec383e0f38895cad3923fa3ffd1f829fc9fca622e352801d80ed71c9bf46efdcdf833519069d25393de12c855b6e64380c2/index.m3u8
+https://kent.s.gy/kentskyprem
 #EXTINF:-1 group-title="sports", Sky Sports Prem (2)
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1312002&extension=ts&play_token=yDbdml6BML
 #EXTINF:-1 group-title="sports", Sky Sports Main
-http://edge.zerobuff.com/bb77a5a232f5d05a5dd0e84adfae6ca0a2a398bc240a10e83a46c795bb76e13f3f3e60935b9abc411bd4406263a26598827c7a4326e99430e369213ef0a1cddf8de3f58295cad0936da5aad9e37fa4d0cc3f226d275d8c058d4bcaa33df39ffc3206c13d8256918914/index.m3u8
+https://kent.s.gy/kentskymain
 #EXTINF:-1 group-title="sports", Hub Premier 1
 http://main3.112421.net/live/ueCPHIwZ34/ahF8CChJYz/4155110.ts
 #EXTINF:-1 group-title="sports", Hub Premier 2
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1314078&extension=ts&play_token=COgTgsUHRM
 #EXTINF:-1 group-title="sports", Hub Premier 2 4K
-http://edge.zerobuff.com/bb77a5a232f5d05a5fd2e545d9ae6ca0a2a398bc240a10e83a46c795bb76e13f3f3e60935f98a35b61de532e63ef6c878d6263453bf1912af97d3c29f3b9c8c192e4fd948ac2d58423a0f894e02af2dbc462223c7c0bd5598c1698a162f5ceaa6254973bdb0f9f8944ce06e1/index.m3u8
+https://kent.s.gy/kenthubprem2_4k
 #EXTINF:-1 group-title="sports", Now Sports 2 4K
-http://edge.zerobuff.com/bb77a5a232f5d05a5fd2e844deae6ca0a2a398bc240a10e83a46c795bb76e13f3f3e60935f98a35b61de532e60ef6c878d6263453bf1912af97d3c29f3b9c8c192e4fc9482c3c89b21a5b4d1b02da4829d31216d2801d95ed6499ba76da39daf3752c46e8254908a17c40d/index.m3u8
+https://kent.s.gy/kentnow4k
 #EXTINF:-1 group-title="sports", USA Network
 http://c.superiptv.pk/live/75276880/66150102/28908.ts
 #EXTINF:-1 group-title="sports", USA Network 2
