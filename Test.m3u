@@ -93,6 +93,9 @@ https://vips-livecdn.fptplay.net/live/media/event-14/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="FPT events", FPT events 15
 https://vips-livecdn.fptplay.net/live/media/event-15/hls_avc_v6/index.m3u8
 
+#EXTINF:-1 group-title="Sự kiện FPT 25fps", Sự kiện FPT 3 25fps
+https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/su-kien-03-avc1_2800000=10001.m3u8
+
 #EXTINF:-1 group-title="test", livenow1
 https://kent.s.gy/livenow
 #EXTINF:-1 group-title="test", livenow2
