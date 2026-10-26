@@ -130,16 +130,36 @@ https://vmttv.dpdns.org/tv360/?id=vtv9
 https://vmttv.dpdns.org/tv360/?id=vtv10
 
 #EXTINF:-1 group-title="VTV Backup", VTV1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cca908f736f54dfc90ec844fe123942c:9fea9e1b52e1e87a7d4c1dec0c46307f
 https://kent.s.gy/vtv1
 #EXTINF:-1 group-title="VTV Backup", VTV2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://kent.s.gy/vtv2
 #EXTINF:-1 group-title="VTV Backup", VTV3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 https://kent.s.gy/vtv3
 #EXTINF:-1 group-title="VTV Backup", VTV4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://kent.s.gy/vtv4
 #EXTINF:-1 group-title="VTV Backup", Vietnam Today
 https://kent.s.gy/vietnamtoday
 #EXTINF:-1 group-title="VTV Backup", VTV5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://kent.s.gy/vtv5
 #EXTINF:-1 group-title="VTV Backup", VTV6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -148,12 +168,28 @@ https://kent.s.gy/vtv5
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 https://kent.s.gy/vtv6
 #EXTINF:-1 group-title="VTV Backup", VTV7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 https://kent.s.gy/vtv7
 #EXTINF:-1 group-title="VTV Backup", VTV8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a685e226374dc7b756a12c270744b5:95504c377fb04cab81ba5e955f4ae189
 https://kent.s.gy/vtv8
 #EXTINF:-1 group-title="VTV Backup", VTV9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 https://kent.s.gy/vtv9
 #EXTINF:-1 group-title="VTV Backup", VTV10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 https://kent.s.gy/vtv10
 
 #EXTINF:0 group-title="Chuối chiên",hello
