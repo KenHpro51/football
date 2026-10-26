@@ -167,6 +167,8 @@ https://kent.s.gy/vtv5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 https://kent.s.gy/vtv6
+#EXTINF:-1 group-title="VTV Backup", VTV6_2
+https://kent.s.gy/vtv6_2
 #EXTINF:-1 group-title="VTV Backup", VTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
