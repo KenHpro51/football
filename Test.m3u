@@ -161,14 +161,24 @@ https://kent.s.gy/vietnamtoday
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://kent.s.gy/vtv5
+#EXTINF:-1 group-title="VTV Backup", VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e3b28cfcb3b4eb8b993c67e93ff9b43:a320388a40b54ff788c846043c50083f
+https://kent.s.gy/vtv5tnb
+#EXTINF:-1 group-title="VTV Backup", VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea293eba54ad4ca0b028576afcee88c2:18ac6a360d0e48979d4b6c612f04b31f
+https://kent.s.gy/vtv5tn
 #EXTINF:-1 group-title="VTV Backup", VTV6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 https://kent.s.gy/vtv6
-#EXTINF:-1 group-title="VTV Backup", VTV6_2
-https://kent.s.gy/vtv6_2
 #EXTINF:-1 group-title="VTV Backup", VTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -193,6 +203,31 @@ https://kent.s.gy/vtv9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 https://kent.s.gy/vtv10
+
+#EXTINF:-1 group-title="VTV Backup", VTV1
+https://kent.s.gy/vtv1_2
+#EXTINF:-1 group-title="VTV Backup", VTV2
+https://kent.s.gy/vtv2_2
+#EXTINF:-1 group-title="VTV Backup", VTV3
+https://kent.s.gy/vtv3_2
+#EXTINF:-1 group-title="VTV Backup", VTV4
+https://kent.s.gy/vtv4_2
+#EXTINF:-1 group-title="VTV Backup", VTV5
+https://kent.s.gy/vtv5_2
+#EXTINF:-1 group-title="VTV Backup", VTV5 Tây Nguyên
+https://kent.s.gy/vtv5tn_2
+#EXTINF:-1 group-title="VTV Backup", VTV5 Tây Nam Bộ
+https://kent.s.gy/vtv5tnb_2
+#EXTINF:-1 group-title="VTV Backup", VTV6
+https://kent.s.gy/vtv6_2
+#EXTINF:-1 group-title="VTV Backup", VTV7
+https://kent.s.gy/vtv7_2
+#EXTINF:-1 group-title="VTV Backup", VTV8
+https://kent.s.gy/vtv8_2
+#EXTINF:-1 group-title="VTV Backup", VTV9
+https://kent.s.gy/vtv9_2
+#EXTINF:-1 group-title="VTV Backup", VTV10
+https://kent.s.gy/vtv10_2
 
 #EXTINF:0 group-title="Chuối chiên",hello
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
