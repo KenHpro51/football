@@ -129,80 +129,81 @@ https://vmttv.dpdns.org/tv360/?id=vtv9
 #EXTINF:-1 group-title="VTV (2)", VTV10
 https://vmttv.dpdns.org/tv360/?id=vtv10
 
-#EXTINF:-1 group-title="VTV Backup", VTV1
+#EXTINF:-1 group-title="VTV (3)", VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cca908f736f54dfc90ec844fe123942c:9fea9e1b52e1e87a7d4c1dec0c46307f
 https://kent.s.gy/vtv1
-#EXTINF:-1 group-title="VTV Backup", VTV2
+#EXTINF:-1 group-title="VTV (3)", VTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://kent.s.gy/vtv2
-#EXTINF:-1 group-title="VTV Backup", VTV3
+#EXTINF:-1 group-title="VTV (3)", VTV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 https://kent.s.gy/vtv3
-#EXTINF:-1 group-title="VTV Backup", VTV4
+#EXTINF:-1 group-title="VTV (3)", VTV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://kent.s.gy/vtv4
-#EXTINF:-1 group-title="VTV Backup", Vietnam Today
+#EXTINF:-1 group-title="VTV (3)", Vietnam Today
 https://kent.s.gy/vietnamtoday
-#EXTINF:-1 group-title="VTV Backup", VTV5
+#EXTINF:-1 group-title="VTV (3)", VTV5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://kent.s.gy/vtv5
-#EXTINF:-1 group-title="VTV Backup", VTV5 Tây Nam Bộ
+#EXTINF:-1 group-title="VTV (3)", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e3b28cfcb3b4eb8b993c67e93ff9b43:a320388a40b54ff788c846043c50083f
 https://kent.s.gy/vtv5tnb
-#EXTINF:-1 group-title="VTV Backup", VTV5 Tây Nguyên
+#EXTINF:-1 group-title="VTV (3)", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea293eba54ad4ca0b028576afcee88c2:18ac6a360d0e48979d4b6c612f04b31f
 https://kent.s.gy/vtv5tn
-#EXTINF:-1 group-title="VTV Backup", VTV6
+#EXTINF:-1 group-title="VTV (3)", VTV6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 https://kent.s.gy/vtv6
-#EXTINF:-1 group-title="VTV Backup", VTV7
+#EXTINF:-1 group-title="VTV (3)", VTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 https://kent.s.gy/vtv7
-#EXTINF:-1 group-title="VTV Backup", VTV8
+#EXTINF:-1 group-title="VTV (3)", VTV8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73a685e226374dc7b756a12c270744b5:95504c377fb04cab81ba5e955f4ae189
 https://kent.s.gy/vtv8
-#EXTINF:-1 group-title="VTV Backup", VTV9
+#EXTINF:-1 group-title="VTV (3)", VTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 https://kent.s.gy/vtv9
-#EXTINF:-1 group-title="VTV Backup", VTV10
+#EXTINF:-1 group-title="VTV (3)", VTV10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 https://kent.s.gy/vtv10
+
 
 #EXTINF:-1 group-title="VTV Backup", VTV1
 https://kent.s.gy/vtv1_2
